@@ -97,7 +97,12 @@ class lazada():
         print("done! "+self.shopId+"_lazada.csv")
 
 print("[ LAZADA-PRODUCT-GRABBER v1.0 by heryan ]")
+print(" _                        _       ")
+print("| |                      | |      ")
+print("| |     __ _ ______ _  __| | __ _ ")
+print("| |    / _` |_  / _` |/ _` |/ _` |")
+print("| |___| (_| |/ / (_| | (_| | (_| |")
+print("\_____/\__,_/___\__,_|\__,_|\__,_|")
 print("[+] https://github.com/heryandp/lazada-product-scrap")
 sname = input("[+] Masukkan username seller: https://www.lazada.co.id/")        
-print("")
 act = lazada(sname)
